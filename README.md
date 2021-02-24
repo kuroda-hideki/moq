@@ -3,5 +3,5 @@
 # installing
 go get github.com/matryer/moq
 
-# moq -out sample_test.go . Sample 
+# use
 moq -out sample_test.go . Sample 
